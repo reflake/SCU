@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Copyright Blizzard assets
+[Aa]ssets/[Rr]esources*
+[Ll]ibrary/ShaderCache/
