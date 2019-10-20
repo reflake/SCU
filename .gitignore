@@ -37,4 +37,5 @@ sysinfo.txt
 
 # Copyright Blizzard assets
 [Aa]ssets/[Rr]esources*
-[Ll]ibrary/ShaderCache/
+[Ll]ibrary/[Ss]hader[Cc]ache/
+[Ll]ogs/
